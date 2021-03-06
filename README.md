@@ -20,7 +20,7 @@ This will clone the repositoty into your local folder
  CSS
  Git()
 ### Live Site
-View [live]
+View [live](https://299hannah.github.io/Anitas-Kitchen/.)
 
 ###MIT Licence
 This project is under the [MIT licence](licence)
