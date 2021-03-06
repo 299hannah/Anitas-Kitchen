@@ -12,7 +12,7 @@ You can install it with the following command in your terminal
 ### Setup
 To access this project on your local files, you can clone it using these steps
 Open your terminal
-Use this command to clone `$ git clone https://github.com/299hannah/My_favorite_band_project
+Use this command to clone `$ git clone https://github.com/299hannah/Anitas-Kitchen
 This will clone the repositoty into your local folder
 
 ### Technologies Used
@@ -20,7 +20,7 @@ This will clone the repositoty into your local folder
  CSS
  Git()
 ### Live Site
-View [live](https://299hannah.github.io/Anitas-Kitchen/.)
+View [live](https://299hannah.github.io/Anitas-Kitchen)
 
-###MIT Licence
+### MIT Licence
 This project is under the [MIT licence](licence)
