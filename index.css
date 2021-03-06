@@ -1,23 +1,22 @@
 *{
     /* background-color: #F15A29; */
     font-family: Helvetica 'Franklin Gothic Medium',  sans-serif;
-    font-size: 15px;
-    /* line-height: 1.5; */
-    /* padding:0; */
- 
-    /* color: black; */
+    font-size: 20px;
+    
+    
+  
 }
- nav, .container{
+/* styling the cooment tag */
+ .container{
     width: 80%;
     margin: auto;
     overflow:hidden;
 }
-/* .current a{
-    color: red;
-    font-weight: bold;
-} */
+
 
 #showcase{
+    margin-right: 10%;
+    margin-left: 10%;
     min-height: 400px;
     background: url("images/landing.jpg") no-repeat;
     text-align: center;
@@ -27,8 +26,12 @@
     display: flex;
     text-align: center;
 }
+.box>p{
+    color: red;
+}
 .happyparty{
     /* text-align: center; */
+   
     
     
 }
@@ -220,7 +223,7 @@ ul{
     color: red;
 }
 
-
+/* styling form tag */
 #form{
     padding:10px;
     background-image: url("images/subscribe.jpg");
@@ -254,6 +257,7 @@ ul{
     padding-right: 20px;
     color: white;
 }
+/* styling footer  */
 #footer{
     background-color: #F15A29;
     text-align: center;
@@ -277,6 +281,9 @@ ul{
         display: block;
         width: 100%;
         
+    }
+    #showcase{
+        position:relative;
     }
 #form input[ type="email"]{
     margin-bottom:5px;
