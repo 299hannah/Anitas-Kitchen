@@ -28,7 +28,11 @@
     text-align: center;
 }
 .box>p{
-    color: red;
+    color: #F15A29;
+}
+
+.current{
+    color: #F15A29;
 }
 .happyparty{
     /* text-align: center; */
