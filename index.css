@@ -275,14 +275,19 @@ ul{
         padding-bottom :20px; 
     }
     
-    .customers{
+.customers{
         float: none;
         text-align: center;
         display: block;
         width: 100%;
         
     }
-    #showcase{
+    #footer{
+        text-align: center;
+        width: 100%;
+        float: none;
+    }
+#showcase{
         position:relative;
     }
 #form input[ type="email"]{
